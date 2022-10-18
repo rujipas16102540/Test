@@ -1,0 +1,8 @@
+.bg-header {
+    background: #144b8b;
+    margin: 0 !important;
+    height: 5vh;
+    /* width: 100vw; */
+    position: sticky;
+    top: 0;
+}

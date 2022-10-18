@@ -1,0 +1,45 @@
+.bg-navl {
+    background: #fff;
+    height: 100vh;
+    width: 5vw;
+    position: fixed;
+    border-radius: 0 50px 0 0;
+    box-shadow: 1px 1px 15px black;
+    top: 0;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.bg-navl>div:nth-child(1) {
+    padding-bottom: 40%;
+    border-bottom: 1px solid rgba(150, 150, 150, 0.4);
+
+}
+
+.bg-navl>div:nth-child(3) {
+    padding-bottom: 40%;
+    border-bottom: 1px solid rgba(150, 150, 150, 0.4);
+}
+
+.bsCardList {
+    text-align: center;
+    color: white;
+    margin-top: 40%;
+    padding: 10%;
+    /* margin: 5%; */
+    /* width: 2vw;
+    height: 2vh; */
+}
+
+.bsCardList>svg {
+    width: 80%;
+    height: 80%;
+    background: #0d1949;
+    border-radius: 15px;
+    padding: 10%;
+}
+
+.styleLogo {
+    height: 5vh;
+    width: 5vw;
+}
